@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend technologies 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on ...any thing that uses frontend
-- 📫 How to reach me: ssrangi47@gmail.com
+- 📫 How to reach me: message/mails
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ?
 
