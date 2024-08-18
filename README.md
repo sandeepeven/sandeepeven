@@ -1,4 +1,4 @@
-name: Sandeep Singh
+name: Sandeep Singh\
 learning: Solidity and Web3.js
 
 <!---
