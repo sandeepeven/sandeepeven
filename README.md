@@ -1,4 +1,5 @@
 name: Sandeep Singh
+learning: Solidity and Web3.js
 
 <!---
 sandeepeven/sandeepeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
