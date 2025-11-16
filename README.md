@@ -5,7 +5,8 @@ I am a developer from India 🇮🇳 who likes to read and build cool stuff here
 I can code in:
 - `javascript`, `typescript`
 - `react.js, next.js`
-- `react native`
+- `react native`, `expo`
+- `++`
 
 
 Please feel free to navigate through my projects.
