@@ -3,12 +3,11 @@
 I am a frontend engineer from India 🇮🇳 who likes to read, build apps and services.
 
 I can code in:
-- `javascript`, `typescript`
-- `next.js`
-- `react native`, `expo`
-- `python`
-- `c++`
+- `javascript`, `typescript`, `python` and `c++`
 
+Frameworks:
+- `next.js`, `react native`, `expo`
+  
 Please take a look around. You might find something useful. 🪄🔮
 
 <!---
