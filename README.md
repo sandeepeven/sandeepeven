@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Senior Frontend / Mobile Engineer** with **8+ years of experience** crafting performant digital products across **fintech, POS, and consumer applications**.
 
@@ -20,7 +20,7 @@ My sweet spot lies in:
 
 ---
 
-## 🛠 Tech Toolbox
+## Technical Knowledge
 
 ### **Languages**
 `JavaScript` `TypeScript` `Java` `Kotlin` `Swift` `Objective-C` `Python`
@@ -42,85 +42,34 @@ My sweet spot lies in:
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 💼 Featured Work
+## Work
 
 ### 🏪 Offline First POS Architecture
-> Architected offline-first retail POS system for **100+ omnichannel stores**, enabling seamless transactions in low-connectivity environments.
+Architected offline-first retail POS system for **100+ omnichannel stores**, enabling seamless transactions in low-connectivity environments.
 
 **Tech:** Kotlin, MVVM, Room, WorkManager, Retrofit
 
 ---
 
 ### 📱 React Native Scale Optimisation
-> Improved rendering performance from **42 FPS → 60 FPS** for an app with **2M+ MAU / 10M+ downloads**.
+Improved rendering performance from **42 FPS → 60 FPS** for an app with **2M+ MAU / 10M+ downloads**.
 
 **Focus:** Performance Profiling, Rendering Optimisation, Architecture Refactor
 
 ---
 
 ### 💳 Fintech Loan Platform
-> Built and launched fintech loan platform achieving **1M+ downloads** and **50K DAU**.
+Built and launched fintech loan platform achieving **1M+ downloads** and **50K DAU**.
 
 **Tech:** React Native, TypeScript, Redux
 
 ---
 
 ### 🌐 Internal CRM Platform
-> Architected CRM dashboard platform for managing loan workflows and reducing processing errors by **12%**.
+Architected CRM dashboard platform for managing loan workflows and reducing processing errors by **12%**.
 
 **Tech:** Next.js, TailwindCSS, TanStack Query
-
----
-
-## ✍️ Writing / Articles
-
-I occasionally write about engineering, architecture, and product development.
-
-- [Building Performant React Native Apps](#)
-- [Offline-First Architecture in Android](#)
-- [Scaling Frontend Architecture for Startups](#)
-
----
-
-## 🌱 Currently Learning
-
-Currently exploring deeper into:
-
-- Advanced **System Design / Distributed Systems**
-- Native Android Internals
-- iOS Development (Swift / Objective-C)
-- AI Native Product Development
-
----
-
-## 🔨 Currently Building
-
-Working on:
-
-- Personal engineering portfolio improvements  
-- Advanced architecture/demo projects for frontend/system design  
-- Learning-focused side projects around POS / fintech systems  
-
----
-
-## 🧠 Engineering Philosophy
-
-> I believe great engineering is not just writing code —
-> it's building systems that are scalable, maintainable, performant, and deeply aligned with product goals.
 
 ---
 
