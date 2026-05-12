@@ -1,13 +1,13 @@
 # Hey, I'm Sandeep Singh 👋  
 
-### Senior Frontend / Mobile Engineer  
+### Senior React Native Performance Engineer / Mobile Systems Engineer / Cross-Platform Native Engineer  
 **Building scalable web, mobile & POS experiences with React, React Native, Android & Product Engineering**
 
 ---
 
 ## About Me
 
-I'm a **Senior Frontend / Mobile Engineer** with **8+ years of experience** crafting performant digital products across **fintech, POS, and consumer applications**.
+I'm a **Senior Mobile Engineer** with **8+ years of experience** crafting performant digital products across **fintech, POS, and consumer applications**.
 
 I enjoy solving engineering problems where **product, performance, and scalability intersect** — whether that's architecting offline-first systems, improving rendering performance, or designing frontend systems that scale cleanly.
 
@@ -81,9 +81,6 @@ Architected CRM dashboard platform for managing loan workflows and reducing proc
 
 ---
 
-## ⚡ Fun Fact
-
-Outside of coding, I enjoy taking long walks, explore food places, reading mysterious fiction novels.
 <!---
 sandeepeven/sandeepeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
