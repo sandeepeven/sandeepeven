@@ -11,7 +11,7 @@ I'm a **Senior Mobile Engineer** with **8+ years of experience** crafting perfor
 
 I enjoy solving engineering problems where **product, performance, and scalability intersect** — whether that's architecting offline-first systems, improving rendering performance, or designing frontend systems that scale cleanly.
 
-My sweet spot lies in:
+I can now do below stuff using AI at faster pace:
 
 - Building **high-performance mobile/web apps**
 - Architecting **scalable frontend/mobile systems**
@@ -42,42 +42,9 @@ My sweet spot lies in:
 
 ---
 
-
-## Work
-
-### 🏪 Offline First POS Architecture
-Architected offline-first retail POS system for **100+ omnichannel stores**, enabling seamless transactions in low-connectivity environments.
-
-**Tech:** Kotlin, MVVM, Room, WorkManager, Retrofit
-
 ---
-
-### 📱 React Native Scale Optimisation
-Improved rendering performance from **42 FPS → 60 FPS** for an app with **2M+ MAU / 10M+ downloads**.
-
-**Focus:** Performance Profiling, Rendering Optimisation, Architecture Refactor
-
----
-
-### 💳 Fintech Loan Platform
-Built and launched fintech loan platform achieving **1M+ downloads** and **50K DAU**.
-
-**Tech:** React Native, TypeScript, Redux
-
----
-
-### 🌐 Internal CRM Platform
-Architected CRM dashboard platform for managing loan workflows and reducing processing errors by **12%**.
-
-**Tech:** Next.js, TailwindCSS, TanStack Query
-
----
-
-## 📫 Let's Connect
-
 - **Email:** ssrangi47@gmail.com  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sandeepsingh47)
-- **Medium:** [Medium](https://medium.com/@sandeepsingh_92415)
 
 ---
 
