@@ -28,12 +28,12 @@ I'm just as comfortable on mobile. I understand how iOS and Android work at the 
 ## Side projects I built with Claude
 
 - **Supermarket Simulator**: made with Godot and Blender models and animations. Live on the Play Store!
-- **[Rigsmith](https://rigsmith-pc-builder.netlify.app/)**: a PC builder that checks part compatibility and estimates game FPS and prices in INR
-- **[Problem Engine](https://problem-engine.netlify.app/)**: a tracker of open engineering problems teams are working on, with plain-English notes on the fixes being tried
 - **Phaedrus**: a YouTube-style UI, Shorts included, to organise and watch your local videos
 - **LinkSmash**: an offline Android app to save and organise links straight from the share menu
 - **DollPhone**: a baby phone that plays sounds when you press buttons 1 to 9
 - **Chromecaster**: casts a Chrome tab using ffmpeg
+- **[Rigsmith](https://rigsmith-pc-builder.netlify.app/)**: a PC builder that checks part compatibility and estimates game FPS and prices in INR
+- **[Problem Engine](https://problem-engine.netlify.app/)**: a tracker of open engineering problems teams are working on, with plain-English notes on the fixes being tried
 
 **Currently building:** a small-world simulation game with vehicles, in Godot.
 
