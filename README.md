@@ -8,9 +8,9 @@ I'm just as comfortable on mobile. I understand how iOS and Android work at the 
 
 ## What I work with
 
-**Web:** React, Next.js, Tailwind CSS, TanStack Query, Redux, Zustand
-**Mobile:** React Native, Expo, Kotlin, Java, Android SDK
-**Also:** Node.js, Jest, Cypress, Detox, AWS, Docker, Fastlane
+- **Web:** React, Next.js, Tailwind CSS, TanStack Query, Redux, Zustand
+- **Mobile:** React Native, Expo, Kotlin, Java, Android SDK
+- **Also:** Node.js, Jest, Cypress, Detox, AWS, Docker, Fastlane
 
 ## Things I've shipped at work
 
