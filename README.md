@@ -4,13 +4,13 @@ I'm a Senior Frontend Engineer from India who's spent 8 years building mobile an
 
 At heart I'm a frontend person: I know how browsers work under the hood, and TypeScript, JavaScript, HTML and CSS are home turf.
 
-## 🧰 What I work with
+## What I work with
 
 **Web:** React, Next.js, Tailwind CSS, TanStack Query, Redux, Zustand
 **Mobile:** React Native, Expo, Kotlin, Java, Android SDK
 **Also:** Node.js, Jest, Cypress, Detox, AWS, Docker, Fastlane
 
-## 🚀 Things I've shipped at work
+## Things I've shipped at work
 
 - **DealShare app** (10M+ downloads, 500K+ MAU): search, checkout and payments in React Native
 - **Offline-first Android POS** in Kotlin, running in 100+ retail stores with printers, scanners and cash drawers
@@ -23,7 +23,7 @@ At heart I'm a frontend person: I know how browsers work under the hood, and Typ
 - **KreditPe** at Bueno Finance (YC W'21): credit line product taken from idea to 50K active users
 - **Mapbox caching** at Jaarvis that dropped API costs from $3000 to $500 a month
 
-## 🎮 Side projects I built with Claude
+## Side projects I built with Claude
 
 - **Supermarket Simulator**: made with Godot and Blender models and animations. Live on the Play Store!
 - **Phaedrus**: a YouTube-style UI, Shorts included, to organise and watch your local videos
@@ -35,10 +35,11 @@ At heart I'm a frontend person: I know how browsers work under the hood, and Typ
 
 **All my apps:** [RexBird on the Play Store](https://play.google.com/store/search?q=rexbird&c=apps)
 
-## 💬 Say hi
+## Say hi
 
 Always up for a chat about React Native performance, frontend architecture or game dev. Find me on [LinkedIn](https://www.linkedin.com/in/sandeepsingh47).
 
+## If you like any of my work
 <a href="https://buymeacoffee.com/sandeepster" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" height="50" width="210">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" height="50" width="200">
 </a>
