@@ -1,8 +1,10 @@
-# Hey, I'm Sandeep 👋
+# Hiya, I'm Sandeep 👋
 
-I'm a Senior Frontend Engineer from India who's spent 8 years building mobile and web apps that real people use every day, across fintech, e-commerce and logistics. Right now I'm an SDE III at **DealShare** in Bengaluru.
+I'm a Senior Frontend Engineer from India who's spent 8 years building mobile and web apps that real people use every day, across fintech, e-commerce and logistics.
 
 At heart I'm a frontend person: I know how browsers work under the hood, and TypeScript, JavaScript, HTML and CSS are home turf.
+
+I'm just as comfortable on mobile. I understand how iOS and Android work at the architecture level, and I've built and shipped apps with both React Native and native Android.
 
 ## What I work with
 
